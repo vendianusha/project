@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "chandana-database",
+    "private_key_id": "f36d2923da9557a851f5a8f225a6c8f14240b940",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/lMBd1mrYbK66\n8AWsKkebl4k10p9O06mRSsWs3vHhH2rRsHkID9wF4KfXBxtiNlx7Te7h4f28LVYd\nOmWyvEr+CVxPJVs1WeCxNv1SkxKNrsmfPhRM1STDJw9nJW6tgIbhXRAKlZzlcbxL\n600QaeafJvCkP+n7EUM9lGOdObmrhsaD7T2NTRliawo7puUeVYZjNq7hAoQ8nFJj\nsjOPNPqp7exx5Z57hH9YfVXCEtSq8/dR02nyROReW6G9RwqxaOpcsDtD60iRaVFB\nIVxMPyb53fPtOtU2mqcSGPZwdT4covw43xLG/2kQETTvPDdzU4/EECyuiyhi4WOI\nOBTHM2hpAgMBAAECggEAHtEguHd7LGEfIjbl0rHiXubbTWsZ8SYfCp4KeipKojnZ\nhu1qKp/SdqeSmAYuo3e3HKaGnJMrq49nYMA6B6w+K+r5jEmoCEby287KpPO/ckcB\na7oirdFDXpjz41WkHgikqa+8mtdCK65F6bhp5xAB5uvunZ0iWB6IwGkUNQBKG4sF\nNp3YPaZ0AVVWPudY3r/zTehCvH74Q5VSb4Drt+x6QB4+xQuoVDoruLEULyIahF46\noMMF45eKzmiSyV8owuEucelJW8sQXOKzBUSnbnUFu8RdDpkIW00Pdn1qJLj74xC+\nTZqghNpgUMG6XP0TC7lV+HKyfWC59RPGYZnhW4owOQKBgQDgm0Q4gwPrMi9UeWEU\nSIoJOZLsUIFAvICMUGF2OmyBy+dTcV15kU9OrhAbynApz0Y21JEBWtijSdnQg7Yy\nEXEIbmMYpFubAI/pbzPIfxqU+lPgpsYReY+BlXvizwXagzJVX3ObnoMQ+76q9u+c\nYFjoNGjsRi+C6ZLQq7C7XhYHowKBgQDaW8nUoWlXL0ciNF4zw9p+uGP5ny3zpE0q\no5OvRk4gQ/ULDlz7lixy/PjivBWir/MhgNykwHnwzIuAdU4o24/qZ1afqKIU0mPG\n6o9KY39KPqBZCychXmY9osQ08dXy+Eb+/bnNVGrtsFITG4ZBNGJnBR9JuxZ0Ike9\nIWQpuzSAgwKBgGpGzZb310jYrDCKZncUg8wto+mRhjc9eo3qEtPAfUtFUiXXhGVb\nbm1KS3D67uu5mf2jwyEi/VL2RMw3JmS2gAd/RACK9JV5RJ8t8RCzo75OXJX2E858\n+HxWYRJG5vwoDA79ZVSDQn0swWFgCqyxoh/tfKAf7adCIif+tVdTA5WFAoGAEKjA\nFUDbUJOC0dE8/qYKnXBj8D98ugHnAUHJmq26eCu3HkjSPz+N1JgIRQQkgmz6F6xF\nKSymIQD6A6rvc56MtE1+BmBPPVdv1VU/6WT96SQuB50aNymEk18/qOpqcEcQ45No\nAYpXPhsdp+eJrp/YghOZ934WkHWtE3jgs25c6xECgYEAnYAIOq7Iepxims6Ww4U6\n44AQocra0JywKV7mVOf+WdkVV3b40Tu9C0z2Y+jehpE47zT8+zHM0nhjeXCOETKK\nbdonR94qUF8hkPMHSZOcm0nldZR4x3XWNB/Ak1Q3WYa7fjCtUUR5Q2bSCjAwkFey\nG5ij2WzJQjJzqtpLA89+CyA=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-caoa6@chandana-database.iam.gserviceaccount.com",
+    "client_id": "117170044704870258498",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-caoa6%40chandana-database.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
